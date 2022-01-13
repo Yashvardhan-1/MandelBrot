@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Mandelbrot SDL\Mandelbrot_SDL\Mandelbrot_SDL\main.cpp(42,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Mandelbrot SDL\Mandelbrot_SDL\Mandelbrot_SDL\main.cpp(85,16): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\Mandelbrot SDL\Mandelbrot_SDL\Mandelbrot_SDL\main.cpp(91,13): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\Mandelbrot SDL\Mandelbrot_SDL\Mandelbrot_SDL\main.cpp(93,14): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\Mandelbrot SDL\Mandelbrot_SDL\Mandelbrot_SDL\main.cpp(27,12): warning C4101: 'event': unreferenced local variable
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mandelbrot_SDL.vcxproj -> D:\Mandelbrot SDL\Mandelbrot_SDL\x64\Release\Mandelbrot_SDL.exe

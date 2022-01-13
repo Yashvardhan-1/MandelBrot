@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd90c70a-4e7b-4384-af65-93ff1cf7721f": {
+      "ProjectGuid": "bd90c70a-4e7b-4384-af65-93ff1cf7721f",
+      "DisplayName": "Mandelbrot_SDL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
